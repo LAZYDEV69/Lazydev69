@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack
 
-<h2>🧑‍💻 Programming Languages</h2>
+<h3>🧑‍💻 Programming Languages</h3>
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/> &nbsp;  
@@ -23,7 +23,7 @@
 
 ---
 
-<h2>👨‍💻 Web</h2>
+<h3>👨‍💻 Web</h3>
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> &nbsp;  
@@ -35,7 +35,7 @@
 
 ---
 
-### 🗄️ Databases  
+<h3>🗄️ Databases </h3>
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/> &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="50" height="50" alt="MariaDB"/> &nbsp;  
@@ -44,7 +44,7 @@
 
 ---
 
-### 🎨 Creative & Design Tools  
+<h3>🎨 Creative & Design Tools  </h3>
 <p align="left">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="Photoshop"/> &nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="After Effects"/> &nbsp;  
