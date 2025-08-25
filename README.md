@@ -8,9 +8,9 @@
 
 ---
 # 💻 Tech Stack
-
+ <h2>Programming Languages</h2>
 <p align="left">  
-  <h2>Programming Languages</h2>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>  
