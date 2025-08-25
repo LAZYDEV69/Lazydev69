@@ -1,5 +1,5 @@
 # 💫 About Me
-- 🔭 Currently working on: **Student Enrollment System** (Java + MySQL)  
+- 🔭 Currently working on: **Student Enrollment System** (C# .NET Framewwork + MySQL)  
 - 🤝 Open to collaborate on: **Open-source educational tools & small web apps**  
 - 🤔 Seeking help with: **Optimizing database queries & clean UI design**  
 - 🌱 Learning: **Java Swing · Python OOP · SQL**  
