@@ -8,7 +8,7 @@
 
 ---
 # 💻 Tech Stack
- <h2>Programming Languages</h2>
+ <h2>🧑‍💻Programming Languages</h2>
 <p align="left">  
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>  
@@ -21,7 +21,7 @@
 </p>
 
   ---
- # 💻 Web
+ # 👨‍💻 Web
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>  
