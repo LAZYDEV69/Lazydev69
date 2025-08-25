@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="40" height="40" alt="Lightroom"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40" alt="Gimp"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krita/krita-plain.svg" width="40" height="40" alt="Krita"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" width="40" height="40" alt="Krita"/>  
 </p>  
 
 # 📊 GitHub Stats
