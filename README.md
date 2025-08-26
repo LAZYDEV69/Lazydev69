@@ -1,10 +1,8 @@
 # 💫 About Me
-- 🔭 Currently working on: **Student Enrollment System** (C# .NET Framewwork + MySQL)  
-- 🤝 Open to collaborate on: **Open-source educational tools & small web apps**  
-- 🤔 Seeking help with: **Optimizing database queries & clean UI design**  
-- 🌱 Learning: **Java Swing · Python OOP · SQL**  
-- 💬 Ask me about: **Programming basics · Student projects · Network topology**  
-- ⚡ Fun fact: I’ve been building small projects since **7th grade** 🚀  
+
+|                                                                                                                                             |        |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| - 🔭 Currently working on: **Student Enrollment System** (C# .NET Framework + MySQL)  <br> - 🤝 Open to collaborate on: **Open-source educational tools & small web apps** <br> - 🤔 Seeking help with: **Optimizing database queries & clean UI design** <br> - 🌱 Learning: **Java Swing · Python OOP · SQL** <br> - 💬 Ask me about: **Programming basics · Student projects · Network topology** <br> - ⚡ Fun fact: I’ve been building small projects since **7th grade** 🚀 | ```<br>        ^<br>       /^\<br>      /   \<br>     | 🚀 |<br>     |   /<br>     |  /<br>     | /<br>     |/ <br>    [===]<br>``` |
 
 ---
 
